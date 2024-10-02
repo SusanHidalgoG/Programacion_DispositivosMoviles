@@ -1,0 +1,2 @@
+NSCalendarsUsageDescription = "La aplicacion debe ingresar al calendario para agendar las futuras clases ";
+PermissionGroupNotification = "La aplicacion debe tener acceso a notificaciones para que no se pierda ninguna clase ";
